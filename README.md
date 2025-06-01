@@ -23,5 +23,3 @@ A machine learning project that predicts house prices based on features such as 
 
 ---
 
-## 📁 Project Structure
-
